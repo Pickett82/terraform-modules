@@ -8,7 +8,7 @@
 #   }
 # }
 
-resource "aws_instance" "test-server" {
+resource "aws_instance" "test_server" {
     
     ami = "ami-06672d07f62285d1d" 
     instance_type = "t2.micro"

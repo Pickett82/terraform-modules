@@ -7,3 +7,4 @@ variable "server_name" {
   description = "The name of the server we're creating"
   type        = string
 }
+
